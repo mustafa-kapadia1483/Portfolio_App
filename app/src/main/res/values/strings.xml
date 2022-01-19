@@ -1,0 +1,11 @@
+<resources>
+    <string name="profile_image_alt">Image of Mustafa Kapadia</string>
+    <string name="app_name">Portfolio_App</string>
+    <string name="profile_name">Mustafa Kapadia</string>
+    <string name="profile_description">I am a passionate Front End Developer and UI/UX Designer who is intrigued by the fundamentals and application of design in creating a website. I am proficient in creating websites from scratch, I know how to create wireframes and prototypes using Figma and Adobe XD and then convert them to functional websites using HTML, CSS and JavaScript</string>
+    <string name="skill_name">HTML and CSS</string>
+    <string name="skill_name1">JavaScript</string>
+    <string name="skill_name2">Android</string>
+    <string name="experience_text">Experience</string>
+
+</resources>
